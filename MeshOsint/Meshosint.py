@@ -3,7 +3,6 @@
 
 from resources import *
 from modules.banner import banner
-# from modules.clear_screen import clear_screen
 from rich import box, print
 from rich.table import Table
 import requests
