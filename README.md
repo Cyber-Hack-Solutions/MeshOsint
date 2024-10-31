@@ -1,6 +1,6 @@
 
+![main](https://github.com/user-attachments/assets/630c3070-564d-4003-afb1-a441ac3b05fe)
 
-![main](https://github.com/user-attachments/assets/720af74d-9a5f-4e4f-998a-ac13b6ab73dc)
 ---
 
 # Meshtastic OSINT Tool
@@ -13,17 +13,15 @@ This tool gathers real-time node data from the above sources and displays it in 
 
 > **For educational purposes only**
 
-
-
-
 ---
 
 ## Features
 
 - **Node Data Capture**: Automatically collects real-time node and device information from secure sources.
-![tables](https://github.com/user-attachments/assets/76230b3f-8007-4f6b-9948-40803c830876)
+![tables](https://github.com/user-attachments/assets/cfc85bb5-4c21-43d9-be0e-600127c4f172)
+
 - **Customizable Mapping**: Visualizes network nodes with Folium, overlaying coordinates and metadata on a stylized map.
-![map](https://github.com/user-attachments/assets/2ccb3cb7-1168-4057-a71f-8aa995413a9b)
+![map](https://github.com/user-attachments/assets/37a48adc-d42d-41f0-863f-6056c16d97b4)
 
 
 ## Installation
@@ -70,7 +68,7 @@ We will review all contributions, verifying modifications and new changes for qu
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/e07c34f6-9ba4-40d8-9b3c-ea94b095b854" alt="chs" width="200"/>
+<img src="https://github.com/user-attachments/assets/cdd2f425-75e7-4af5-b053-44df93b3a35d" alt="chs" width="200"/>
 
 </div>
 
